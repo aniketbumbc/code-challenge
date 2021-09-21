@@ -1,14 +1,8 @@
-import { configureStore, ThunkAction, Action } from "@reduxjs/toolkit";
-import createSagaMiddleware from "redux-saga";
-
-import { rootSaga } from "../root-saga";
-
-const sagaMiddleware = createSagaMiddleware();
+import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
 
 export const store = configureStore({
   reducer: {},
 });
-sagaMiddleware.run(rootSaga);
 
 export type AppDispatch = typeof store.dispatch;
 export type RootState = ReturnType<typeof store.getState>;
