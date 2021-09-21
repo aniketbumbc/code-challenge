@@ -18,13 +18,8 @@ The project was initiated with Create React App, with:
 - React
 - TypeScript
 - Jest and React Testing Library
-
-There is more than one option configured for state managemant
 - Redux, with Redux Toolkit
-- Redux Saga
 - Redux Thunk
-
-There is also the folling dependency for UI solution:
 - Material UI with Styled Components
 
 Please have the project open in the IDE and be ready to share your screen when the session starts.
