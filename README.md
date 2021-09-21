@@ -7,7 +7,7 @@ We are excited about the opportunity to have you in our team 🚀
 
 At heycar we value a lot collaboration.
 As a part of our technical assessment we have a pairing session when you will have a chance to collaborate with one of our engineers you will be potentially working with at heycar.
-When the session starts you will be require to do a task like fetching data from a public API to render both a list of items.
+When the session starts you will be asked to do tasks like fetching data from a public API to render a list of items.
 Please checkout this project in your local machine and open it in your preferred IDE of choice.
 Make sure you can build and run the project.
 
