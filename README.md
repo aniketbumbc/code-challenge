@@ -29,7 +29,7 @@ session. If you want to, you can add or modify one that are related to:
 - Routing or
 - Styling
 
-Using React, TypeScript, and Jest with React Testing Library is reauired though.
+Using React, TypeScript, and Jest with React Testing Library is required though.
 
 ## Before the Session Starts
 
