@@ -37,3 +37,13 @@
     transform: translateY(0px);
   }
 }
+
+.dog-container {
+  float: left;
+  margin: 20px;
+}
+
+.dog-container img {
+  width: 100%;
+  height: 250px;
+}
